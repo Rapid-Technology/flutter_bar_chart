@@ -1,4 +1,4 @@
-# bar_chart_flutter
+# Bar Chart in Flutter
 
 A new Flutter project.
 

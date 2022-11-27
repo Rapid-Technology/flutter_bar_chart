@@ -1,6 +1,6 @@
 # Bar Chart in Flutter
 
-A new Flutter project.
+[![IMAGE ALT TEXT HERE](https://i.ytimg.com/vi/hlmFp_ETLKY/maxresdefault.jpg)](https://www.youtube.com/watch?v=hlmFp_ETLKY)
 
 ## Getting Started
 
